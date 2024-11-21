@@ -1,8 +1,10 @@
 ✨ Dynamic Product Showcase ✨
+
 A captivating and responsive web application to display and manage products fetched dynamically from an external API.
 
 🚀 Live Preview
-  Dynamic-Product-Showcase/ShoppingCartwithFetchAPI.gif
+https://github.com/yasin-erkan/Dynamic-Product-Showcase/blob/main/Dynamic-Product-Showcase/ShoppingCartwithFetchAPI.gif
+  
 🌟 Key Features
 ✔️ Fetch products dynamically from a MockAPI endpoint.
 ✔️ Fully responsive layout with modern design.
@@ -17,12 +19,6 @@ HTML5	Structure of the webpage.
 CSS3	Styling and responsive layout.
 JavaScript	Functionality and interactivity.
 MockAPI.io	API for fetching product data.
-
-
-
-
-
-
 
 🎥 How It Works
 The application fetches product data from MockAPI.
