@@ -3,7 +3,9 @@
 A captivating and responsive web application to display and manage products fetched dynamically from an external API.
 
 🚀 Live Preview
-Dynamic-Product-Showcase/ShoppingCartwithFetchAPI.gif
+
+![Project Demo](./Dynamic-Product-Showcase/ShoppingCartwithFetchAPI.gif)
+
   
 🌟 Key Features
 ✔️ Fetch products dynamically from a MockAPI endpoint.
